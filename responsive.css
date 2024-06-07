@@ -1,4 +1,3 @@
-
 @media only screen and (max-width: 1140px){
     .nav-list{
        flex-direction: column;
@@ -43,4 +42,4 @@
     .paras{
        padding: 0px;
     }
-   }
+}
